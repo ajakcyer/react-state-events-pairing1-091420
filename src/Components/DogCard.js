@@ -1,6 +1,7 @@
 import React from "react";
 
 function DogCard() {
+  // console.log(this.props)
   return (
     <div className="card">
       <span className="content">
